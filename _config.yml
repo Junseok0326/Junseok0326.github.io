@@ -20,25 +20,37 @@ urls:
 
 author_logo: profile.jpg
 author: Junseok Seo
-author_bio: 안녕하세요 초보 개발자 서준석입니다. :D
+author_bio: 안녕하세요 :D
 author_email: "wnstjr7395@naver.com"
 author_location: South Korea
 author_website_url: "https://junseok0326.github.io"
-typewrite-text: 안녕하세요 초보 개발자 서준석입니다. :D
+typewrite-text: 안녕하세요 :D
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: false
+            - company_name: ㈜한신정보기술
+              company_logo: hanshin.png
+              company_url: #
+              designation: 실습
+              description: 웹 접근성 향상 작업 및 DB 컬럼 정리 등
+              visibility: true
+            - company_name: 아바예술심리교육연구소
+              company_logo: abba.jpeg
+              company_url: #
+              designation: 실습
+              description: 미술치료 어플리케이션 개발
+              visibility: true
+            - company_name: 이파로스
+              company_logo: epharos.jpg
+              company_url: #
+              designation: 인턴
+              description: 라즈베리파이 모듈 유지보수 및 웹사이트 스크립트 작업 보조
+              visibility: true
 
 author_education_details:
               - college_logo: knut.png
                 college_name: 한국교통대학교 - Korea National University of Transportation
                 college_url: https://www.ut.ac.kr/
-                college_degree: SW Engineering Major
+                college_degree: 소프트웨어전공
                 description: 2015.03 ~ 4학년 재학중
                 visibility: true
 
@@ -80,7 +92,7 @@ instagram_username: _jun_seok_
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: Junseok0326
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0

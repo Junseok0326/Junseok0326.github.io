@@ -5,7 +5,7 @@ summary: 릿코드 문제풀이 포스팅
 author: 서준석
 date: '2020-08-19 02:10:00 +0530'
 category: algorithm
-thumbnail: /assets/img/posts/leetcode/reverseinteger/leetcode_reverseinteger.png
+thumbnail: /assets/img/products/leetcode/reverseinteger/leetcode_reverseinteger.png
 keywords: algorithm, leetcode, easy problem
 permalink: /blog/leetcode-reverseinteger
 ---

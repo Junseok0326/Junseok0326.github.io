@@ -5,7 +5,7 @@ summary: 릿코드 문제풀이 포스팅
 author: 서준석
 date: '2020-08-19 02:10:00 +0530'
 category: algorithm
-thumbnail: /assets/img/products/leetcode/reverseinteger/leetcode_reverseinteger.png
+thumbnail: /assets/img/products/leetcode/reverseinteger.png
 keywords: algorithm, leetcode, easy problem
 permalink: /blog/leetcode-reverseinteger
 ---
@@ -66,6 +66,6 @@ class Solution:
 ```
 
 ### 5. 결과
-![ReverseInteger결과1](../assets/img/products/leetcode/reverseinteger/leetcode_reverseinteger_result1.png)
-![ReverseInteger결과2](../assets/img/products/leetcode/reverseinteger/leetcode_reverseinteger_result2.png)
-![ReverseInteger결과3](../assets/img/products/leetcode/reverseinteger/leetcode_reverseinteger_result3.png)
+![ReverseInteger결과1](../assets/img/products/leetcode/reverseinteger_result1.png)
+![ReverseInteger결과2](../assets/img/products/leetcode/reverseinteger_result2.png)
+![ReverseInteger결과3](../assets/img/products/leetcode/reverseinteger_result3.png)

@@ -20,9 +20,8 @@ permalink: /blog/leetcode-romantointeger
 
 
 ### 2. 해결법
-1. dictionary 사용
-2. 주어진 조건 사용
-3. in 키워드 사용
+1. dictionary 사용하여 해당 Key에 맞는 Value를 더하기
+2. in 키워드와 list를 활용해 주어진 조건 간단하게 구현하기(IV는 4...) 
 
 ### 3. 실패 사유
 >첫번째 fail : 주어진 조건을 고려안함

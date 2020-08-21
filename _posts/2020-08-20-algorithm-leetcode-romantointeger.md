@@ -5,7 +5,7 @@ summary: 릿코드 문제풀이 포스팅
 author: 서준석
 date: '2020-08-20 17:54:00 +0530'
 category: algorithm
-thumbnail: /assets/img/products/leetcode/romantointeger.png
+thumbnail: /assets/img/leetcode/romantointeger.png
 keywords: algorithm, leetcode, easy problem
 permalink: /blog/leetcode-romantointeger
 ---
@@ -52,5 +52,5 @@ class Solution:
 ```
 
 ### 5. 결과
-![결과1](../assets/img/products/leetcode/romantointeger_result1.png)
-![결과2](../assets/img/products/leetcode/romantointeger_result2.png)
+![결과1](../assets/img/leetcode/romantointeger_result1.png)
+![결과2](../assets/img/leetcode/romantointeger_result2.png)

@@ -5,7 +5,7 @@ summary: 릿코드 문제풀이 포스팅
 author: 서준석
 date: '2020-08-19 15:13:00 +0530'
 category: algorithm
-thumbnail: /assets/img/products/leetcode/palindromenumber.png
+thumbnail: /assets/img/leetcode/palindromenumber.png
 keywords: algorithm, leetcode, easy problem
 permalink: /blog/leetcode-palindromenumber
 ---

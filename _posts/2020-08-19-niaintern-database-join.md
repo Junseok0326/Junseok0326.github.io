@@ -5,7 +5,7 @@ summary: 공공데이터 인턴 교육
 author: 서준석
 date: '2020-08-19 12:31:00 +0530'
 category: database
-thumbnail: /assets/img/products/publicdata/join.png
+thumbnail: /assets/img/publicdata/join.png
 keywords: database, nia, sql, join
 permalink: /blog/database_join
 ---

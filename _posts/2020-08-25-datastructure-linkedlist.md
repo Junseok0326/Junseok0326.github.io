@@ -11,7 +11,7 @@ permalink: /blog/datastructure-linkedlist
 ---
 # Linked List - 연결 리스트
 
-<img src="../assets/img/java/methodoverloading.png"/>
+<img src="../assets/img/datastructure/linkedlist.png"/>
 
 <hr/>
 
@@ -82,3 +82,5 @@ print(linked_list)
 ```
 - 실행 결과
 >| 2 | 3 | 5 | 
+
+연결 리스트 접근 연산 : 특정 위치에 있는 Node를 Return하는 연산
